@@ -1,3 +1,3 @@
 Agregando info a un archivo en stage.
 Una nueva modificacion. jeje.
-Otra modificacion en remoti.
+Otra modificacion en remoto.
